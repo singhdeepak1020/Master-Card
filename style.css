@@ -33,7 +33,7 @@ form {
 }
 .input {
     position: absolute;
-    top: 24rem;
+    top: 20rem;
     width: 25rem; height: 3rem;
     border-radius: 10px;
     padding: 1.7rem;
@@ -44,7 +44,7 @@ form {
 }
 .submit {
     position: absolute;
-    top: 24rem;
+    top: 20rem;
     transform: translate(200px);
     border: none;
     padding: 0.9rem;
